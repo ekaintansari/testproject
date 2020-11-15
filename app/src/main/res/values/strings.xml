@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SigerKampusTest</string>
+    <string name="list">List</string>
+    <string name="news">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custom_1">CUSTOM 1</string>
+    <string name="custom_2">CUSTOM 2</string>
+    <string name="home_sigerkampus">Home SigerKampus</string>
+    <string name="universitas_lampung">Universitas Lampung</string>
+</resources>
